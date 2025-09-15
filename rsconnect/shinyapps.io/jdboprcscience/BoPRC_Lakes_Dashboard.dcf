@@ -1,0 +1,13 @@
+name: BoPRC_Lakes_Dashboard
+title: BoPRC_Lakes_Dashboard
+username: jdboprcscience
+account: jdboprcscience
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2713646
+bundleId: 10689085
+url: https://jdboprcscience.shinyapps.io/BoPRC_Lakes_Dashboard/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: cross_over_data.csv|Output_Plots|Superfluous Files

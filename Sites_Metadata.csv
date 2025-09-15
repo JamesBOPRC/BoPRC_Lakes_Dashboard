@@ -1,0 +1,16 @@
+Lake,Site Name,Profile Max,bth_file,VHOD,Mixing,HVOD_Temp,TLI_Target,Top Sample,Bottom,Discrete_X,SiteID,Map_Location
+Okareka,Lake Okareka at Site 1,28,Okareka_bth.csv,TRUE,Stratified,10.6,3,0-10,26,29-31,FK427028,Landuse Images/Okareka.jpg
+Okaro,Lake Okaro at Site 1,17,Okaro_bth.csv,TRUE,Stratified,10,5,0-4,14,16.5,FI680541,Landuse Images/Okaro.jpg
+Okataina,Lake Okataina at Site 1,65,Okataina_bth.csv,TRUE,Stratified,11.1,2.6,0-17,50,63-65,GK015589,Landuse Images/Okataina.jpg
+Rerewhakaaitu,Lake Rerewhakaaitu at Site 1,12,Rerewhakaaitu_bth.csv,FALSE,Polymictic,,3.6,0-12,12,N/A,GI617624,Landuse Images/Rerewhakaaitu.jpg
+Rotoiti - Okawa Bay,Lake Rotoiti at Okawa Bay,4,N/A,FALSE,Polymictic,,N/A,0-3,3,N/A,FL274353,Landuse Images/Okawa Bay.jpg
+Rotoiti,Lake Rotoiti at Site 3,30,Rotoiti_bth.csv,FALSE,Stratified,12.1,3.5,0-12,26,27-30,FL479468,Landuse Images/Rotoiti.jpg
+Rotoiti,Lake Rotoiti at Site 4,110,Rotoiti_bth.csv,TRUE,Stratified,12.1,3.5,0-17,50,110-120,GL051366,Landuse Images/Rotoiti.jpg
+Rotoma,Lake Rotoma at Site 1,70,Rotoma_bth.csv,TRUE,Stratified,10,2.3,0-17,55,68-71,HL508168,Landuse Images/Rotoma.jpg
+Rotomahana,Lake Rotomahana at Site 2,110,Rotomahana_bth.csv,TRUE,Stratified,10,3.9,0-12,50,110-119,GI084907,Landuse Images/Rotomahana.jpg
+Rotorua,Lake Rotorua at Site 5,20,Rotorua_bth.csv,FALSE,Polymictic,,4.2,0-6,18,21-24,EL805168,Landuse Images/Rotorua.jpg
+Rotorua,Lake Rotorua at Site 2,25,Rotorua_bth.csv,FALSE,Polymictic,,4.2,0-6,15,18-24,EK783777,Landuse Images/Rotorua.jpg
+Tarawera,Lake Tarawera at Site 5,80,Tarawera_bth.csv,TRUE,Stratified,10,2.6,0-17,60,79-82,FJ988648,Landuse Images/Tarawera.jpg
+Tikitapu,Lake Tikitapu at Site 1,24,Tikitapu_bth.csv,FALSE,Stratified,10,2.7,0-12,19,23-26,FJ164707,Landuse Images/Tikitapu.jpg
+Rotoehu,Lake Rotoehu at Site 3,10,Rotoehu_bth.csv,FALSE,Polymictic,,3.9,0-9,9,N/A,HL030557,Landuse Images/Rotoehu.jpg
+Rotokakahi,Lake Rotokakahi at Te Wairoa Outlet,N/A,N/A,FALSE,Stratified,,3.1,N/A,N/A,N/A,FJ298569 ,Landuse Images/Rotokakahi.jpg
