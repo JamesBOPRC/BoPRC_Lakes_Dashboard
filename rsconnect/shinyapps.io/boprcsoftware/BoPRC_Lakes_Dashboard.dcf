@@ -1,0 +1,12 @@
+name: BoPRC_Lakes_Dashboard
+title: BoPRC_Lakes_Dashboard
+username: boprcsoftware
+account: boprcsoftware
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 15460934
+bundleId:
+url: https://boprcsoftware.shinyapps.io/BoPRC_Lakes_Dashboard/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
